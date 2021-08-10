@@ -140,7 +140,7 @@
     }
   },
   "11": {
-    "endpoint": "Ask for the edit review page",
+    "endpoint": "Ask for the edit review page for a product",
     "request": {
       "method": "",
       "URL": "",
